@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ILC Rich Title
-Plugin URI: http://www.ilovecolors.com.ar/
+Plugin URI: http://ilovecolors.com.ar/wordpress-plugin-enabling-tinymce-for-the-title/
 Description: Enables Tiny MCE for the title while editing a post. Uses <a href="http://www.jquery.com" target="_blank">jQuery</a> library on admin interface.
 Version: 1.0
 Author: Elliot
